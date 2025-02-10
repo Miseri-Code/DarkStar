@@ -276,6 +276,10 @@ footer ul li {
     font-size:x-large;
 }
 
+.form-check-input:checked {
+    background-color: #ff0000;
+}
+
 table, th, tr, td {
     border-collapse: collapse;
     width: 96%;
